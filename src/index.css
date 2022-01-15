@@ -62,3 +62,11 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.meme--image {
+  width: 477px;
+  height: 268px;
+  margin: 36px;
+  border-radius: 10px;
+  border-style: solid;
+}
